@@ -22,12 +22,18 @@ body {
   padding: 50px;
   font: 14px "Roboto", Helvetica, Arial, sans-serif;
   color: #000;
+  background: #FCEE42;
 }
 
 h1, h2 {
   font-family: "GT-Walsheim-Pro-Bold";
 }
 
-a {
-  color: #00B7FF;
+a, a:hover {
+  color: #EF4621;
+}
+
+hr {
+  border: 1px solid #eee;
+  margin: 2em;
 }
