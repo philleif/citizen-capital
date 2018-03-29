@@ -22,7 +22,7 @@ body {
   font: 14px "Roboto", Helvetica, Arial, sans-serif;
   color: #000;
   background: #FCEE42;
-  margin-top: 8em;
+  margin-top: 4em;
 }
 
 h1, h2 {
@@ -35,6 +35,10 @@ a, a:hover {
 }
 
 hr {
-  border: 1px solid #eee;
+  border: 1px solid #000;
   margin: 4em;
+}
+
+img {
+  width: 100%;
 }
