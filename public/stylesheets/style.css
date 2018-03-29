@@ -27,6 +27,7 @@ body {
 
 h1, h2 {
   font-family: "GT-Walsheim-Pro-Bold";
+  margin-bottom: 1em;
 }
 
 a, a:hover {
