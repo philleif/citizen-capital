@@ -19,10 +19,10 @@
 }
 
 body {
-  padding: 50px;
   font: 14px "Roboto", Helvetica, Arial, sans-serif;
   color: #000;
   background: #FCEE42;
+  margin-top: 8em;
 }
 
 h1, h2 {
@@ -35,5 +35,5 @@ a, a:hover {
 
 hr {
   border: 1px solid #eee;
-  margin: 2em;
+  margin: 4em;
 }
